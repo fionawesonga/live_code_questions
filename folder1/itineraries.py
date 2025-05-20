@@ -62,5 +62,4 @@ user_preferences = {
 travel_dates = ["2025-05-21", "2025-05-22"]
 
 itinerary = itinerary(user_preferences, travel_dates)
-print(itinerary)
-#         
+print(itinerary)       
